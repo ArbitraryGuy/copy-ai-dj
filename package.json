@@ -1,0 +1,33 @@
+{
+  "name": "ai-dj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.3.2",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "autoprefixer": "10.4.14",
+    "next": "^13.4.7",
+    "next.js": "^1.0.3",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "spotify-web-api-node": "^5.0.2",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.6",
+    "web-audio-api": "^0.2.2",
+    "youtube-search-api": "^1.2.0",
+    "ytdl-core": "^4.11.4",
+    "ytsr": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/spotify-web-api-node": "^5.0.7"
+  }
+}
